@@ -1,0 +1,1 @@
+import{R as e}from"./vendor.007a0d56.js";import{E as r}from"./index.8f4c14eb.js";/* empty css                      */import"./antd.8efb228f.js";import"./recoil.e34f1d37.js";import"./qs.2e7c19d0.js";function t(){return e.createElement(r,{type:404})}export{t as default};
