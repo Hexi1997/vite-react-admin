@@ -1,4 +1,4 @@
-!function(){function t(e){return(t="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(t){return typeof t}:function(t){return t&&"function"==typeof Symbol&&t.constructor===Symbol&&t!==Symbol.prototype?"symbol":typeof t})(e)}System.register(["./vendor-legacy.c4bd829f.js"],(function(e){"use strict";var n;return{setters:[function(t){t.e,n=t.h}],execute:function(){var r,o={exports:{}};
+!function(){function t(e){return(t="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(t){return typeof t}:function(t){return t&&"function"==typeof Symbol&&t.constructor===Symbol&&t!==Symbol.prototype?"symbol":typeof t})(e)}System.register(["./vendor-legacy.1f3e1ed9.js"],(function(e){"use strict";var n;return{setters:[function(t){t.e,n=t.h}],execute:function(){var r,o={exports:{}};
 /*!
        * Quill Editor v1.3.7
        * https://quilljs.com/
